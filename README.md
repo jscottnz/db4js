@@ -6,6 +6,10 @@ A Simple light DB for Javascript
 Usage
 =====
 
+<pre>
+var Db = require('./db');
+</pre>
+
 Load from (empty) file:
 <pre>
 var myDb = Db.create();
