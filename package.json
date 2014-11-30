@@ -1,5 +1,5 @@
 {
-  "name": "jscottnzDb4js",
+  "name": "db4js",
   "version": "1.0.0",
   "description": "Simple Javascript Database",
   "dependencies": {
