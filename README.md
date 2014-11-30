@@ -57,9 +57,13 @@ Index Builders
 ==============
 
 indexBuilders.fromKey
+
 indexBuilders.fromField
+
 indexBuilders.fromAlias
+
 indexBuilders.fromRecursive
+
 indexBuilders.trigramFromIndex
 
 
