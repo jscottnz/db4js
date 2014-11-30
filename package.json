@@ -1,0 +1,9 @@
+{
+  "name": "jscottnzDb4js",
+  "version": "1.0.0",
+  "description": "Simple Javascript Database",
+  "dependencies": {
+    "q": "^1.1.2"
+  },
+  "devDependencies": {}
+}
